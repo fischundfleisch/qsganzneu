@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UpbpcD+AmUXjUj8ecQ4Rj0u9KPItZRwgQD7U2tZl51pAV7XRikfw8PqVJImSlbjY0a1DKD2pFr1hYD41Tng4Vw==",
+  "success": true,
+  "projectFilePath": "H:\\visual studio\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KSMA\\.nuget\\packages\\microsoft.office.interop.outlook\\15.0.4797.1004\\microsoft.office.interop.outlook.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}

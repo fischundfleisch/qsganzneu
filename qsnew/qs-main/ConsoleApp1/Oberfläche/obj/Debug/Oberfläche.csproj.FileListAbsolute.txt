@@ -1,0 +1,31 @@
+H:\visual studio\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.exe.config
+H:\visual studio\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.exe
+H:\visual studio\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.pdb
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.AssemblyReference.cache
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.SDReparatur.resources
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.Properties.Resources.resources
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.GenerateResource.cache
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.CoreCompileInputs.cache
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.exe
+H:\visual studio\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.pdb
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.exe.config
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.exe
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.pdb
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.AssemblyReference.cache
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.SDReparatur.resources
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.Properties.Resources.resources
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.GenerateResource.cache
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.CoreCompileInputs.cache
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.exe
+C:\Users\KAlex\Downloads\qs-main\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.pdb
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.exe.config
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.exe
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\bin\Debug\Oberfläche.pdb
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.AssemblyReference.cache
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.Properties.Resources.resources
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.GenerateResource.cache
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.csproj.CoreCompileInputs.cache
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.exe
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.pdb
+C:\Users\KSMA\source\repos\fischundfleisch\qsnew\qs-main\ConsoleApp1\Oberfläche\obj\Debug\Oberfläche.SDReparatur.resources
